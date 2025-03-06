@@ -7,4 +7,3 @@ This is my solution to the [Blog preview card challenge on Frontend Mentor](http
 ### Screenshot
 
 ![](./assets/screenshots/screenshot.png)
-# blog-preview-card
